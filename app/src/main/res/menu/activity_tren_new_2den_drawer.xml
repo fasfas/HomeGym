@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_upr1_den2"
+            android:title="Лицеви опори на колене" />
+        <item
+            android:id="@+id/nav_upr2_den2"
+            android:title="Коремни преси със свити колене" />
+        <item
+            android:id="@+id/nav_upr3_den2"
+            android:title="Лицеви опори с вдигнат във въздуха крак" />
+        <item
+            android:id="@+id/nav_upr4_den2"
+            android:title="Предна опора (Plank)" />
+        <item
+            android:id="@+id/nav_upr5_den2"
+            android:title="Скок от лег" />
+        <item
+            android:id="@+id/nav_upr6_den2"
+            android:title="Напади" />
+        <item
+            android:id="@+id/nav_upr7_den2"
+            android:title="Изправяне на пръсти на един крак" />
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_upr1"
+            android:title="Лицеви опори на колене" />
+        <item
+            android:id="@+id/nav_upr2"
+            android:title="Кофи на стол" />
+        <item
+            android:id="@+id/nav_upr3"
+            android:title="Мост с повдигане" />
+        <item
+            android:id="@+id/nav_upr4"
+            android:title="Коремни преси лакти в колене" />
+        <item
+            android:id="@+id/nav_upr5"
+            android:title="Супермен" />
+
+    </group>
+
+
+</menu>
